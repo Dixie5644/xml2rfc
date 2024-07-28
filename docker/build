@@ -10,7 +10,9 @@ if [ "$parent" = "." ]; then parent="$PWD"; fi
 
 export LANG=C
 
-REPO="levkowetz/xml2rfc"
+REPO="levkowetz/xml
+
+2rfc"
 
 # ----------------------------------------------------------------------
 function usage() {
